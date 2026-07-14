@@ -12,8 +12,6 @@ This project was developed by **Shiv Pramod Koli** as part of an AI Internship t
 - 🎨 Modern dark-themed GUI
 - 🤖 Rule-based conversation engine
 - 📚 Built-in knowledge base
-- 🍎 Information about fruits
-- 🥕 Information about vegetables
 - 🌍 Information about countries
 - 💻 Computer Science concepts
 - 🧠 Artificial Intelligence basics
