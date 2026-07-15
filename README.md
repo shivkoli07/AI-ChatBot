@@ -261,9 +261,6 @@ Aspiring Software Engineer | Full Stack Developer | AI & Data Analytics Enthusia
 GitHub:
 https://github.com/shivkoli07
 
-LinkedIn:
-(Add your LinkedIn Profile URL)
-
 ---
 
 # 📄 License
